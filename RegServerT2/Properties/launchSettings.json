@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "RegServerT2": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:62436;http://localhost:62437"
+    }
+  }
+}
